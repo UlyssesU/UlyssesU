@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Ulysses 👋
+Bachelors in Computer Science
+🎓 UC Santa Cruz '21
 
 <!--
 **UlyssesU/UlyssesU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
