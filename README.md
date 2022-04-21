@@ -1,6 +1,10 @@
 ### Hi there I'm Ulysses 👋
-Bachelors in Computer Science
-🎓 UC Santa Cruz '21
+## Software Engineer
+-🎓 Bachelors in Computer Science
+-🎓 UC Santa Cruz '21
+
+## What's new:
+- 🔭 I’m currently working on building up my project base in both Python, and Java
 
 <!--
 **UlyssesU/UlyssesU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
